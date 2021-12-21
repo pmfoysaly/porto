@@ -1,1 +1,0 @@
-(this.webpackJsonpporto=this.webpackJsonpporto||[]).push([[5],{32:function(t,p,o){"use strict";o.r(p),p.default=o.p+"static/media/product-2.14f026a9.jpg"}}]);
