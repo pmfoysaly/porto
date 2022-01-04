@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkporto=self.webpackChunkporto||[]).push([[475],{475:function(e,t,p){e.exports=p.p+"static/media/leg-left.503d3b88c858fd0b52ed.jpg"}}]);

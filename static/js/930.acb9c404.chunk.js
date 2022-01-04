@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkporto=self.webpackChunkporto||[]).push([[930],{930:function(a,e,p){a.exports=p.p+"static/media/ball.ba12f8a1cc0af6efa730.png"}}]);
